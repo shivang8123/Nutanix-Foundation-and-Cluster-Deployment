@@ -1,8 +1,5 @@
 # Nutanix-Foundation-and-Cluster-Deployment
 
-
-# Nutanix Foundation and Cluster Deployment Notes
-
 ## 1. Purpose
 
 It will cover Nutanix Foundation and cluster-deployment. Cover the deployment methods, virtualization concepts, network and IP prerequisites, Foundation workflow, post-deployment configuration, validation, testing, licensing, and handover.
