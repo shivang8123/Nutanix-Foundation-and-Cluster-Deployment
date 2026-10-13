@@ -2,7 +2,7 @@
 
 ## 1. Purpose
 
-It will cover Nutanix Foundation and cluster-deployment. Cover the deployment methods, virtualization concepts, network and IP prerequisites, Foundation workflow, post-deployment configuration, validation, testing, licensing, and handover.
+It will cover Nutanix Foundation and cluster-deployment, the deployment methods, virtualization concepts, network and IP prerequisites, Foundation workflow, post-deployment configuration, validation, testing, licensing, and handover.
 
 > Always follow the Nutanix AOS/Foundation version-specific documentation and the approved customer design. Commands and UI labels can vary by release.
 
